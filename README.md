@@ -4,7 +4,7 @@ An AI that helps engineers write their reports without inventing facts. It reads
 documents, answers questions about them, and drafts cited report prose. Every fact traces back to
 a source. Nothing is made up.
 
-Built by Adina Lieblich, a civil engineer with over 13 years in the industry. Gesher is an early
+Built by Adina Lieblich, a civil engineer with 12+ years in the industry. Gesher is an early
 working prototype. This repository is a write-up of how it works and how it was built. The product
 code is private.
 
